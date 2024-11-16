@@ -1,0 +1,771 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+header {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+}
+
+.E-PORA {
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 1px;
+    text-align: center;
+}
+
+.header-first-div {
+    width: 100%;
+}
+
+.btnCategories {
+    padding: 11px 25px;
+    background-color: rgba(255, 102, 82, 255);
+    color: white;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.btnCategories i {
+    padding-left: 5px;
+}
+
+.Search {
+    padding: 11px 25px;
+    border: 0px;
+}
+
+
+.header-search-box {
+    border-radius: 5px;
+    background-color: rgba(244, 247, 246, 255);
+    font-size: 15px;
+    width: 100%;
+}
+
+.header-search-button {
+    background-color: rgba(36, 93, 80, 255);
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.header-second-line {
+    padding-top: 15px;
+}
+
+.header-second-line-a {
+    text-decoration: none;
+    color: #777c8f;
+    font-weight: bold;
+}
+
+.header-second-line-icon {
+    padding: 15px;
+    border-radius: 50%;
+    color: rgba(36, 93, 80, 255);
+    background-color: rgba(244, 247, 246, 255);
+    color: green;
+}
+
+.header-second-line-icon-user {
+    margin-right: 10px;
+}
+
+.learn-new-skill img {
+    height: auto;
+    width: 100%;
+}
+
+.key-supporters {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.our-supporter-heading {
+    text-align: center;
+    /* font-size: 45px; */
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.acadamy-name {
+    text-align: center;
+
+}
+
+.acadamy-name a {
+    text-decoration: none;
+    color: rgba(101,91,85,255);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.creative-class {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+}
+
+.creative-class-image {
+    width: 60%;
+}
+
+.img-creative-class {
+    width: 100%;
+    height: auto;
+}
+
+.creative-class-about-us {
+    width: 40%;
+    padding-left: 10px;
+}
+
+.creative-class-btnaboutus {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 103, 83, 255);
+    border: 0px;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.creative-class-about-us h1 {
+    font-weight: bolder;
+    margin: 20px 0px;
+    /* font-size: 45px; */
+}
+
+.creative-class-paragraph {
+    color: #777c8f;
+}
+
+.four-details {
+    font-weight: bold;
+}
+
+.four-details i {
+    color: rgba(80, 125, 114, 255);
+    background-color: rgba(233, 238, 237, 255);
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.four-details-second-i {
+    padding-left: 50px;
+}
+
+.four-details-btnReadMore {
+    background-color: rgba(255, 102, 82, 255);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.categories {
+    padding:30px 0px;
+}
+.heading-100categories{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.all-categories-div {
+    padding: 25px 30px; 
+    border-radius: 10px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 0px 20px;
+    height: 100%;
+}
+
+.btntop-categoris {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+.categories-p {
+    color: gray;
+    /* font-size: 18px; */
+}
+
+.firstline-categories i {
+    color: rgb(255, 102, 82);
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.first-line-category-first-div {
+    margin-left: 30px;
+}
+
+.categories-heading {
+    font-weight: bold;
+    /* font-size: 30px; */
+}
+
+.secondline-categories i {
+    color: rgb(255, 102, 82);
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.our-courses {
+    padding:40px 0px;
+    background-color: rgba(247, 250, 250, 255);
+}
+
+.btn-our-courses {
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(255, 239, 237, 255);
+    font-weight: bold;
+}
+
+.courses-heading {
+    width: 100%;
+}
+
+.courses-heading h1 {
+    /* font-size: 40px; */
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.courses-heading button {
+    padding: 10px;
+    background-color: rgba(255, 102, 82, 255);
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 26px;
+}
+
+.design {
+    display: flex;
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.design-side-img {
+    width: 40%;
+}
+
+.design-side-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.img-side-contain {
+    width: 60%;
+    padding-left: 10px;
+
+}
+
+.img-side-contain-heading {
+    margin: 0px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.img-side-contain-icon {
+    color: gray;
+}
+
+.img-side-contain-icon i {
+    color: rgba(255, 102, 82, 255);
+    background-color: rgba(255, 239, 237, 255);
+}
+
+.img-side-contain-icon-340px {
+    display: none;
+}
+
+.btndesign {
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 0px;
+    padding-top: 12px;
+}
+
+.btndesign-button {
+    background-color: rgba(255, 239, 237, 255);
+    border: 0px;
+    border-radius: 5px;
+    font-weight: 800;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.set-two-side {
+    display: flex;
+    margin-top: 70px;
+}
+
+.video-call {
+    padding: 50px 0px;
+}
+
+.video-call img {
+    width: 100%;
+    height: auto;
+}
+.video-call h1{
+    font-weight: bold;
+    margin: 20px 0px;
+}
+.video-call button {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.four-features {
+    margin-top: 50px;
+    display: flex;
+}
+
+.all-feature {
+    width: 25%;
+}
+
+.all-feature i {
+    background-color: rgba(36, 93, 80, 255);
+    color: white;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.all-feature hr {
+    border-bottom: 2px solid red;
+    width: 40px;
+}
+
+.all-feature p {
+    color: gray;
+}
+
+.choose-us {
+    display: flex;
+    padding:30px 0px;
+    background-color: rgba(247, 250, 250, 255);
+}
+
+.first-div-choose-us {
+    width: 50%;
+    padding-top: 80px;
+}
+.first-div-choose-us h1{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.second-div-choose-us {
+    padding-top: 80px;
+}
+
+.second-div-choose-us img {
+    height: auto;
+    width: 100%;
+}
+
+.btn-choose-us {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.btn-more-details {
+    padding: 10px;
+    background-color: rgba(255, 102, 82, 255);
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.choose-after-heading-p {
+    color: gray;
+}
+
+.tick-in-choose {
+    margin-left: 20px;
+    font-weight: bold;
+    background-color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none;
+    width: fit-content;
+}
+
+.tick-in-choose i {
+    padding: 5px;
+    border-radius: 50%;
+    color: rgba(233, 238, 237, 255);
+    background-color: rgb(222, 220, 220);
+    color: #6a9087;
+    font-size: 12px;
+}
+
+.instructor {
+    padding: 30px;
+}
+
+.btn-instructor {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.Instructor-p{
+    margin-top: 20px;
+    margin-bottom: 2px;
+    color: green;
+    font-weight: 500;
+}
+.Instructor-h4{
+    font-weight: bold;
+}
+.heading-our-inspector{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.expert-three-div {
+    width:100%;
+    height: 100%;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+}
+
+.expert-three-div i {
+    color: rgba(255, 102, 82, 255);
+}
+
+.expert-three-div img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.expert-p {
+    color: gray;
+}
+
+.expert-p-860px {
+    display: none;
+}
+
+.expert-three-div hr {
+    border: 2px solid red;
+    width: 130px;
+}
+
+.btn-ALLinstructor {
+    padding: 10px;
+    background-color: rgba(255, 102, 82, 255);
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.Testimonial {
+    padding: 30px;
+}
+
+.btn-Testimonial {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.heading-happy-student{
+    font-weight: bold;
+}
+.two-profiles {
+    padding: 10px;
+    display: flex;
+}
+
+
+
+.left-right-arrow i {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.div-two-profile {
+    padding: 30px;
+}
+
+.profile-firsline-img {
+    display: flex;
+}
+
+.profile-firsline-img img {
+    border-radius: 50%;
+    margin-right: 20px;
+    width:80px;
+     height:80px;
+}
+
+.profile-firsline-img-p {
+    color: green;
+}
+
+.all-profile {
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.all-profile-p {
+    color: gray;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.all-profile i {
+    color: rgb(209, 209, 10);
+}
+
+
+
+.join-with-us {
+    padding: 10px;
+    background-color: rgba(247, 250, 250, 255);
+}
+
+.join-with-us button {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.heading-joining-us{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.join-two-div {
+    width: 100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.div-learn {
+    display: flex;
+}
+
+.learn-new-skill-div {
+    display: flex;
+    padding-left: 30px;
+}
+
+.learn-new-skill-details {
+    width: 50%;
+}
+
+.learn-new-skill-details mark {
+    color: lightcoral;
+    background-color: transparent;
+}
+
+.learn-new-skill-details p {
+    font-size: 13px;
+    color: gray;
+}
+
+.learn-new-skill-details button {
+    border: 1px solid lightcoral;
+    color: lightcoral;
+    border-radius: 10px;
+    background-color: transparent;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.learn-new-skill-img {
+    width: 50%;
+}
+
+.learn-new-skill-img img {
+    height: auto;
+    width: 100%;
+}
+
+.latest-blog {
+    padding: 30px;
+}
+.latest-blog h1{
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.latest-blog-three-img {
+    display: flex;
+    padding: 0px;
+}
+
+.one-blog {
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    height: 100%;
+}
+
+.one-blog img {
+    height: auto;
+    width: 100%;
+    border-radius: 13px;
+}
+
+.one-blog h2 {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.one-blog p {
+    color: gray;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.btn-allblog {
+    padding: 10px 25px;
+    background-color: rgba(255, 102, 82, 255);
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.btn-latestBlog {
+    background-color: rgba(255, 239, 237, 255);
+    color: rgba(255, 102, 82, 255);
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.phone-address-email {
+    display: flex;
+}
+
+.phone-address-email i {
+    color: lightcoral;
+    padding-top: 35px;
+    padding-right: 10px;
+    /* font-size: 20px; */
+    padding: 12px;
+    background: white;
+    border-radius: 50%;
+    /* margin-top: 20px; */
+    margin-right: 10px;
+}
+
+.About-support {
+    padding: 30px;
+    background-color: rgba(247, 248, 249, 255);
+}
+
+.E-PORA-description {
+    color: gray;
+    /* font-size: 15px; */
+    
+}
+
+
+.E-PORA-example {
+    font-weight: bold;
+}
+
+.first-part h2{
+    margin: 20px 0px;
+}
+
+.two-part p {
+    color: gray;
+}
+
+.two-part h2{
+    margin: 20px 0px;
+}
+.three-part p {
+    color: gray;
+}
+.three-part h2{
+    margin: 20px 0px;
+}
+
+.three-part i {
+    color: lightcoral;
+    font-size: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.social-media-icon{
+    text-align: center;
+}
+footer {
+    padding: 30px;
+    background-color: rgba(247, 248, 249, 255);
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: gray;
+}
+
+footer i{
+    font-size: 20px;
+}
